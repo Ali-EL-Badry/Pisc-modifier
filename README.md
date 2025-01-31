@@ -1,5 +1,5 @@
 # Pics Filters ... 💫
-- A small project for editing the photos with 15 different filters 
+- A small project for editing the photos with 15 different filters.
 ## Partners. 👨‍💻👩‍💻
 --> Aly El-Deen Yasser Ali (Aly El-Badry).
 
